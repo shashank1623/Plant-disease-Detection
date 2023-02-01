@@ -4,7 +4,7 @@
 
 Farmers who grown plant/vegetables are facing lot of economical Loss every year because of various Disease that can happen to a plant/vegetables . In our problem i have found 38 different types of disease of 15 plants .  If a farmer can detect these early and apply appropriate treatment it can save lot of waste and prevent the economical loss . 
 
-##About:
+## About:
 In this Project , i have build an end to end machine learning Project in Agriculture Domain to solve the problem of Plants disease. In this Project i have build a web application using `React.js` which will deployed to the cloud and anywhere form the world can acess this applicaiton . All they just need to do give the image of the leaves of plant and the application will tell you disease of the plant with accuracy . Behind the scenes it will be using deep learning model and CNN .
 
 
